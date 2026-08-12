@@ -38,30 +38,12 @@ Security Engineer managing enterprise security operations for a portfolio of hig
 
 ---
 
-## Featured Project
-
-### [splctl](https://github.com/mromanode/splctl) — Python, CLI, Linux, Open Source
-
-CLI tool to automate Splunk Universal Forwarder orchestration, streamlining deployment workflows for security teams.
-
-- Automates Universal Forwarder deployment and management via a clean CLI interface
-- Agnostic log ingestion module supporting local file sources, remote URLs, and automated vendor artifact downloads
-- Built for Linux environments
-
----
-
 ## Professional Experience
 
 - CrowdStrike Falcon platform administration. Prevention policy tuning, exclusion configuration, and performance resolution
 - Managed 36k+ EPS data streams across Splunk and FortiSIEM for 39 enterprise clients.
 - Migrated 116 detection rules from QRadar to Splunk SPL.
 - Architected Microsoft cloud log ingestion (Entra ID, Exchange, SharePoint) via Azure Event Hubs
-
----
-
-## Education
-
-**Diploma in Computer Science and Telecommunications** — IIS Enrico Fermi, Agrigento, Italy (2018–2023)
 
 ---
 
