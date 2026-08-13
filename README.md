@@ -11,10 +11,6 @@ Hey, thanks for stopping by.
 
 ---
 
-## Professional Summary
-
-Security Engineer managing enterprise security operations for a portfolio of high-profile clients. Specialized in SIEM engineering, EDR administration, log ingestion pipelines, and detections searches.
-
 ## Tech Stack
 
 **SIEM / EDR:**
@@ -36,24 +32,3 @@ Security Engineer managing enterprise security operations for a portfolio of hig
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
-
-## Professional Experience
-
-- CrowdStrike Falcon platform administration. Prevention policy tuning, exclusion configuration, and performance resolution
-- Managed 36k+ EPS data streams across Splunk and FortiSIEM for 39 enterprise clients.
-- Migrated 116 detection rules from QRadar to Splunk SPL.
-- Architected Microsoft cloud log ingestion (Entra ID, Exchange, SharePoint) via Azure Event Hubs
-
----
-
-## Contact
-
-<p align="left">
-  <a href="mailto:marco.romano@mailbox.org">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/romanmarc/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
