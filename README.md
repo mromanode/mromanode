@@ -2,14 +2,6 @@
 
 Moin!
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mromanode&color=blueviolet&style=flat-square" alt="Profile views" />
-  <a href="https://github.com/mromanode">
-    <img src="https://img.shields.io/github/followers/mromanode?label=Followers&style=social" alt="GitHub followers" />
-  </a>
-</p>
-
----
 
 ## Tech Stack
 
